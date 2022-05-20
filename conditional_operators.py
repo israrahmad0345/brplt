@@ -9,3 +9,4 @@ age=int(age)
 school=5
 print(type(age))
 print(age==school)
+## This conditional operator
